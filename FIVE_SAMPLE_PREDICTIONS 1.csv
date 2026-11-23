@@ -1,0 +1,6 @@
+Request_ID,Service_Type,Requester_Type,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,SLA_Days,Submission_Weekday,Queue_Category,Predicted_SLA_Breach,Predicted_Breach_Probability
+REQ-1000,It Support,Staff,Portal,High,Registrar,11,Yes,5,Thursday,Medium,0,0.0
+REQ-1001,Scholarship,Student,Walk-In,Low,Admissions,20,Yes,2,Thursday,High,1,0.6585365853658537
+REQ-1004,It Support,Staff,Portal,High,Admissions,19,No,3,Thursday,High,0,0.4
+REQ-1007,Records,Staff,Walk-In,Normal,IT Center,24,No,3,Thursday,High,0,0.4782608695652174
+REQ-1011,It Support,Faculty,Walk-In,Normal,IT Center,11,No,2,Thursday,Medium,1,0.6585365853658537
